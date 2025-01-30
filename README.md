@@ -29,7 +29,7 @@ To run this app locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/rahulsharma998/Counter-App-Rx-Framework.git)
 Install the dependencies:
 
 npm install
